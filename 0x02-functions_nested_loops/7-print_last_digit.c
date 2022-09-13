@@ -2,7 +2,7 @@
 
 /**
  * print_last_digit - Write a function that prints the last digit of a number
- * @x: parameter for function.
+ * @n: parameter for function.
  *
  *Return: is y.
  */
